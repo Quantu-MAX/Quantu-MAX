@@ -1,2 +1,3 @@
-I Am The Electronic Music Producer Known As QuantuMAX.
-In My Free Time (And As A Hobby), I Enjoy Game Development And Even Just Random Scripting In C++ Or Python.
+I Am An Electronic Music Producer With The Alias: QuantuMAX.
+In My Free Time (And As A Hobby), I Enjoy Game Development. 
+(Sometimes) Random Scripting.
